@@ -1,5 +1,5 @@
 # dexter-development-environment
-This project utilizes DDE to control and collect measurements of Haddington Dynamic's Dexter HD Robotic Arm.
+This project utilizes DDE to control and collect measurements of Haddington Dynamic's open-source robotic arm the Dexter HD.
 
 ![ezgif com-gif-maker-7](https://user-images.githubusercontent.com/121901181/210851998-f2504cac-c585-4008-9345-cad425f49ab7.gif)
 
